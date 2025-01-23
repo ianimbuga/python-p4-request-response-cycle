@@ -4,5 +4,21 @@ from flask import Flask
 
 app = Flask(__name__)
 
+def get():
+    pass
+
+
 if __name__ == '__main__':
     app.run(port=5555, debug=True)
+
+
+
+
+
+
+
+
+
+
+
+
